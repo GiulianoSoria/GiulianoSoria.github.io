@@ -7,18 +7,5 @@
 			"paths": ["*"]
 		}		
 		]
-	},
-	{
-		"applinks": {
-			"apps": [],
-			"details": [
-			{
-				"appID": "A4DT85R32D.com.gcsoriap.VideoGamesTracker",
-				"paths": ["*"]
-			}		
-		]
 	}
-
-	}
-
 }
