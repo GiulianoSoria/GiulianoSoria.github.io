@@ -2949,13 +2949,17 @@ input, select, textarea {
 			text-align: center;
 		}
 
+			header.major > ul {
+				text-align: left;
+			}
+
 			header.major > :last-child {
 				margin-bottom: 0;
 			}
 
 			header.major > p {
 				margin-top: 0;
-				text-align: center;
+				text-align: left;
 			}
 
 			header.major > .date {
@@ -3868,6 +3872,10 @@ input, select, textarea {
 				border-top-width: 2px;
 				text-align: center;
 			}
+
+				#main > .posts > article > ul {
+					text-align: left;
+				}
 
 				#main > .posts > article > :last-child {
 					margin-bottom: 0;
