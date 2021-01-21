@@ -4,7 +4,7 @@
 		"details": [
 		{
 			"appID": "A4DT85R32D.com.gcsoriap.VideoGamesTracker",
-			"paths": ["/privacy"]
+			"paths": ["NOT /index"]
 		},
     {
       "appID": "A4DT85R32D.com.gcsoriap.MediaTracker",
